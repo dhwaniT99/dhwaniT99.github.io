@@ -34,11 +34,11 @@ a:hover {
 }
 
 .paper {
-    border-left: 1px solid #56acfd;
+    border-left: 1px solid #ddd;
 }
 
 .menulink:hover {
-    color: #56acfd;
+    color: #111;
 }
 
 .profilepic {
